@@ -1,3 +1,3 @@
 # E-Mail-Spam-Detection
-This is my Machine Learning Project.
+End-to-End Machine Learning Project.
 (With Deployed on Stream-Lit)
